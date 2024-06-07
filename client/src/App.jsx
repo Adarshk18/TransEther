@@ -17,13 +17,12 @@ const App = () => {
         <
         Welcome / >
         <
-        /div> <
-        Transactions / >
-        <
+        /div>{" "} <
         Services / >
         <
+        Transactions / >
+        <
         Footer / >
-
         <
         /div>
     );
